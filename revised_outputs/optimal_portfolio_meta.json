@@ -1,0 +1,23 @@
+{
+  "recommended": "B monthly top-5 hysteresis MV (20d-avg, PIT NVDA)",
+  "k": 5,
+  "decision_date": "2026-02-20",
+  "fill_date": "2026-02-23",
+  "mark_date": "2026-02-26",
+  "tickers": [
+    "TRV",
+    "VZ",
+    "CAT",
+    "MRK",
+    "CVX"
+  ],
+  "target_weight": {
+    "TRV": 0.29935287659466303,
+    "VZ": 0.23061649039894538,
+    "CAT": 0.22293505588443227,
+    "MRK": 0.1621531499843664,
+    "CVX": 0.08394585709360697
+  },
+  "wealth": 1561679.426784445,
+  "n_fridays": 27
+}

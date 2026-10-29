@@ -1,0 +1,5 @@
+Bucket,N,Mean 20-day %
+Selected hits (I_t and r20 > median),76,5.250233516129726
+Selected misses (I_t and r20 <= median),49,-3.3464113096786194
+Active support I_t (monthly close-to-close),25,2.0218759563573374
+Complement I_t^c (monthly close-to-close),25,0.9770533279731588

@@ -1,0 +1,4 @@
+Layer,Rule,Return %,Sharpe
+Random 5-name hysteresis,"1,000 paths; identical $k=5$, $b=3$; random scores",27.125556657823022,0.7695405025683385
+Equal-weight top-5 Model B,"PIT $\bar{r}^{(B)}$, $k=5$, $b=3$, $1/5$ weights",49.18067588354504,1.3318762680691112
+Mean–variance–turnover top-5 Model B,Tsang et al. (2025) share programme on the same $I_t$,56.16794267844452,1.4366183416183431

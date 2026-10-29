@@ -1,0 +1,10 @@
+{
+  "best_causal": "B",
+  "n_decision_days": 149,
+  "test_start": "2025-07-24",
+  "test_end": "2026-02-26",
+  "lookback": 400,
+  "ceemdan_trials": 10,
+  "gamma": 0.001,
+  "S0": 1000000.0
+}

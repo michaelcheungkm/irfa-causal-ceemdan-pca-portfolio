@@ -1,0 +1,13 @@
+{
+  "s0": 1000000.0,
+  "failed_added": [
+    "AIG"
+  ],
+  "kappas": [
+    0.5,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "note": "T-bill is ^IRX/252 on idle cash. Excess-value hurdle subtracts the 21-day T-bill from predicted dollar gain. Proposed book is the fully invested linear term and is not replaced."
+}

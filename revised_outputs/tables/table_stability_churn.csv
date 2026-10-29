@@ -1,0 +1,15 @@
+Strategy,N_rebalances,Mean_replace_%,Full_purges,Pct_full_purge
+"B monthly top-6 max-replace 1 (20d-avg, PIT NVDA)",25,16.666666666666668,0,0.0
+"B monthly top-6 max-replace 2 (20d-avg, PIT NVDA)",25,33.333333333333336,0,0.0
+"B monthly top-6 max-replace 3 (20d-avg, PIT NVDA)",25,47.33333333333333,0,0.0
+"B monthly top-6 min-hold 2 (20d-avg, PIT NVDA)",25,41.33333333333334,0,0.0
+"B monthly top-6 hysteresis (20d-avg, PIT NVDA)",25,69.33333333333333,5,20.0
+"B monthly top-5 hysteresis (20d-avg, PIT NVDA)",25,69.6,5,20.0
+"B monthly top-5 hysteresis b=7 (20d-avg, PIT NVDA)",25,61.6,3,12.0
+"B monthly top-5 hysteresis min-hold 4 (20d-avg, PIT NVDA)",25,21.6,0,0.0
+"B monthly top-5 hysteresis min-hold 5 (20d-avg, PIT NVDA)",25,16.0,0,0.0
+"B monthly top-5 hysteresis b=7 min-hold 4 (20d-avg, PIT NVDA)",25,20.0,0,0.0
+"B monthly top-5 hysteresis MV (20d-avg, PIT NVDA)",25,73.8,8,32.0
+"B monthly top-6 hysteresis LP (20d-avg, PIT NVDA)",25,69.33333333333333,5,20.0
+"B monthly top-8 hysteresis LP (20d-avg, PIT NVDA)",25,70.28571428571428,3,12.0
+"B monthly top-5 hysteresis LP (20d-avg, PIT NVDA)",25,81.0,10,40.0

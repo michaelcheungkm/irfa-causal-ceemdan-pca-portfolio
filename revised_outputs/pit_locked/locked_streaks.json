@@ -1,0 +1,63 @@
+{
+  "replace_rate": 0.8439999999999999,
+  "purges": 14,
+  "n_rebalances_compared": 25,
+  "top": [
+    {
+      "ticker": "CAT",
+      "sessions": 141,
+      "n_streaks": 6,
+      "max_streak": 39,
+      "mean_weight": 0.25625239056518767
+    },
+    {
+      "ticker": "NVDA",
+      "sessions": 138,
+      "n_streaks": 4,
+      "max_streak": 62,
+      "mean_weight": 0.19971750828142845
+    },
+    {
+      "ticker": "BA",
+      "sessions": 134,
+      "n_streaks": 4,
+      "max_streak": 42,
+      "mean_weight": 0.27284972363857707
+    },
+    {
+      "ticker": "AMZN",
+      "sessions": 122,
+      "n_streaks": 5,
+      "max_streak": 36,
+      "mean_weight": 0.1747801374201412
+    },
+    {
+      "ticker": "AXP",
+      "sessions": 121,
+      "n_streaks": 6,
+      "max_streak": 24,
+      "mean_weight": 0.13538004696540534
+    },
+    {
+      "ticker": "AAPL",
+      "sessions": 118,
+      "n_streaks": 6,
+      "max_streak": 23,
+      "mean_weight": 0.1926244776082911
+    },
+    {
+      "ticker": "IBM",
+      "sessions": 117,
+      "n_streaks": 5,
+      "max_streak": 39,
+      "mean_weight": 0.19454458043409606
+    },
+    {
+      "ticker": "MMM",
+      "sessions": 116,
+      "n_streaks": 5,
+      "max_streak": 38,
+      "mean_weight": 0.21915882315822938
+    }
+  ]
+}

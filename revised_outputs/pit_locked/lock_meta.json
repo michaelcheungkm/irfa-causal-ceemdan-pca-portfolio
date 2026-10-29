@@ -1,0 +1,12 @@
+{
+  "locked_buffer": 0,
+  "locked_kappa": 0.5,
+  "train_start": "2020-08-31",
+  "train_end": "2024-02-23",
+  "train_rule": "Maximize equal-weight 20-day momentum Sharpe over buffers, then excess-value Sharpe over kappa, on the 31 Aug 2020 Dow panel excluding Walgreens, whose prices are no longer on the price source.",
+  "shw_weight_before_join": 0.0,
+  "intc_forecast_days": 179,
+  "test_return_fully_invested": 62.4019679563889,
+  "test_return_hurdle": 49.62403886733291,
+  "test_cash_hurdle": 2.822893009741357
+}

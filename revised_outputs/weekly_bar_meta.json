@@ -1,0 +1,12 @@
+{
+  "bh_return_pct": 12.36411918403222,
+  "recommended": "ABE weekly top-3",
+  "recommended_return_pct": 13.636727256837244,
+  "n_weeks": 31,
+  "lookback_weeks": 100,
+  "pca_window_weeks": 20,
+  "sg_window_weeks": 7,
+  "periods_per_year": 52.0,
+  "test_start": "2025-07-25",
+  "test_end": "2026-02-26"
+}
